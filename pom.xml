@@ -23,7 +23,6 @@
 		<sonar.login>admin</sonar.login>
 		<sonar.password>sonar</sonar.password>
 		<sonar.host.url>http://3.99.224.6:9000/</sonar.host.url>
-		<sonar.sources>src</sonar.source>
 		
 	</properties>
 
